@@ -1,0 +1,12 @@
+[project]
+name = "daily-planner"
+version = "0.1.0"
+description = "Planner to help you start your day"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "llama-cpp-agent>=0.2.35",
+    "llama-cpp-python>=0.3.6",
+    "python-dotenv>=1.0.1",
+]
+
