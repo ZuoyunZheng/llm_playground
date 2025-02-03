@@ -1,0 +1,3 @@
+[submodule "a_share_investment_agent"]
+	path = a_share_investment_agent
+	url = git@github.com:ZuoyunZheng/A_Share_investment_Agent.git
